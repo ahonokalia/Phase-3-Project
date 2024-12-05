@@ -1,6 +1,6 @@
 # Phase-3-Project
 # analysis-for-aircraft
-![image]((https://www.google.com/imgres?q=image%20should%20clearly%20depict%20a%20police%20officer%20interacting%20with%20a%20civilian%20in%20a%20manner%20consistent%20with%20a%20Terry%20Stop.&imgurl=https%3A%2F%2Fstudy.com%2Fcimages%2Fmultimages%2F16%2Ftraffic_stop5968241124173093795.jpg&imgrefurl=https%3A%2F%2Fstudy.com%2Facademy%2Flesson%2Fthe-terry-stop-definition-lesson.html&docid=jmvT_g_lMIZj9M&tbnid=fZs4MKdeHcb-MM&vet=12ahUKEwid1fDQkpCKAxX0xgIHHZiVBI8QM3oECBIQAA..i&w=450&h=299&hcb=2&ved=2ahUKEwid1fDQkpCKAxX0xgIHHZiVBI8QM3oECBIQAA))
+![Police Officer Interacting with Civilian](https://example.com/police-civilian-interaction.jpg)
 This is a repository  of my phase 1 project: Aviation Accident Analysis: Identifying Low-Risk Aircraft for Business Expansion
 **Author**: Precious Ahono Kalia  
 **Contact**: [precious.kalia@student.moringaschool.com](mailto:precious.kalia@student.moringaschool.com)

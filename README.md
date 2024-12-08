@@ -1,74 +1,62 @@
 # Phase-3-Project
-# analysis-for-aircraft
-![Police Officer Interacting with Civilian](https://example.com/police-civilian-interaction.jpg)
-This is a repository  of my phase 1 project: Aviation Accident Analysis: Identifying Low-Risk Aircraft for Business Expansion
+# Analyzing Terry Stops and Arrest Decisions
+![Police Interaction]([link_to_your_image](https://www.google.com/imgres?q=police%20interacting%20with%20civilians&imgurl=https%3A%2F%2Fimages.pexels.com%2Fphotos%2F7714863%2Fpexels-photo-7714863.jpeg%3Fauto%3Dcompress%26cs%3Dtinysrgb%26w%3D1260%26h%3D750%26dpr%3D1&imgrefurl=https%3A%2F%2Fwww.pexels.com%2Fphoto%2Fpolice-officers-talking-to-civilians-7714863%2F&docid=I8A6pWkoer4L8M&tbnid=985RVcMuLcVJcM&vet=12ahUKEwj_u8H-6JiKAxU_T0EAHQ1GAAMQM3oECBcQAA..i&w=1000&h=750&hcb=2&ved=2ahUKEwj_u8H-6JiKAxU_T0EAHQ1GAAMQM3oECBcQAA))
+
+## Overview
+
+This repository contains a Jupyter notebook focused on analyzing police stop data, specifically addressing the classification problem related to Terry Stops and arrest decisions. The project aims to uncover patterns of racial profiling, assess the effectiveness of police interventions, and provide insights for equitable policing practices.
 **Author**: Precious Ahono Kalia  
 **Contact**: [precious.kalia@student.moringaschool.com](mailto:precious.kalia@student.moringaschool.com)
 
 
+## Project Goals
+- **Identify Patterns**: Analyze the relationship between race (of both officers and subjects) and arrest outcomes during Terry Stops.
+- **Measure Disparities**: Investigate disparities in stop rates among different racial and ethnic groups.
+- **Evaluate Effectiveness**: Explore common reasons for stops and their correlation with outcomes, such as arrests or citations.
+- **Enhance Community Trust**: Provide recommendations for resource allocation that minimize bias and maximize community safety.
 ## Table of Contents
 
-- [Project Overview](#project-overview)
-- [Data](#data)
-- [Results](#results)
-- [Recommendations](#recommendations)
-- [Visualizations](#visualizations)
-- [Further research](#future-work)
-- [Contact](#contact)
+1. [Overview](#overview)
+2. [Project Goals](#project-goals)
+3. [Key Questions](#key-questions)
+4. [Challenges Addressed](#challenges-addressed)
+5. [Proposed Solution](#proposed-solution)
+6. [Dataset](#dataset)
+7. [Getting Started](#getting-started)
+8. [Contributing](#contributing)
+9. [License](#license)
+10. [Acknowledgments](#acknowledgments)
+## Key Questions
 
-## Project Overview
-The project examines historical aircraft incidents to identify safety trends and propose improvements. It analyzes factors like aircraft models, engines, injuries, and weather to assist fleet managers in making informed choices about aircraft selection and operations. It compares amateur-built and professional aircraft, highlighting their respective risks. The aim is to enhance aviation safety through data-driven insights and recommendations.
+- Does race play a role in the likelihood of an arrest being made?
+- Are there disparities in stop rates among various racial or ethnic groups?
+- What are the common reasons for stops, and how do they relate to outcomes?
+- How effective are the stops in achieving desired resolutions?
 
-## Data
+## Challenges Addressed
 
-The dataset includes key fields that represent critical aspects of aircraft incidents. Each column has been cleaned and prepared for analysis to ensure accurate results.
+- **Resource Inefficiency**: Understanding stop data to improve resource allocation.
+- **Potential Bias**: Identifying and mitigating disproportionate impacts on specific demographic groups.
+- **Data Limitations**: Addressing issues related to incomplete or noisy data.
+- **Ethical Concerns**: Ensuring transparency and fairness in model predictions.
 
-## Results
+## Proposed Solution
 
-Through analyzing these datasets, several key findings were uncovered:
+The notebook implements a data-driven approach involving:
 
-- **High-risk models**: Certain models, such as the Cessna 152 and Boeing 737, have shown a higher incidence rate in the dataset. These models may require closer scrutiny or enhanced safety measures to mitigate risks.
-- **Geographic Distribution**: Hotspots for aviation accidents have been identified, suggesting areas that may require enhanced safety measures or operational scrutiny.
--  **Recommended models**: Safer models, including the Cessna C208B and C207, consistently performed better in terms of safety metrics. These models are recommended for operators seeking safer fleet options.
-  
-- **Safer engine types**: Turbo Prop and Turbo Shaft engines were identified as more reliable in terms of safety performance when compared to other engine types. Operators are encouraged to consider these engines for better safety outcomes.
+1. **Exploratory Data Analysis (EDA)**: Assessing demographic arrest rates and identifying patterns in stop outcomes.
+2. **Bias and Fairness Analysis**: Measuring disparate impacts and testing for systemic biases.
+3. **Machine Learning Model**: Developing a classification model to predict arrest likelihood while incorporating ethical safeguards.
+4. **Optimization and Validation**: Recommending resource prioritization and evaluating model performance with fairness metrics.
 
-- **Weather impact**: Incidents that occurred under IMC conditions showed a higher rate of fatalities. This finding underscores the need for improved pilot training and better preparation for flights in challenging weather conditions.
+## Dataset
 
-- **Full Results Dataset**: [Access the full results dataset here]((https://github.com/ahonokalia/analysis-for-aircraft/blob/main/project.ipynb.ipynb))
+The dataset used for this analysis is derived from the Terry v. Ohio case and includes various features related to police stops and arrest outcomes. You can access the dataset [here](link_to_your_dataset).
 
-- ## Recommendations
-- Based on the analysis, the following recommendations are provided to improve aircraft safety and fleet management:
- -**Aircraft Selection:**
-   - Prioritize purchasing aircraft models with lower accident rates and fewer fatalities. Focus on models that have demonstrated better safety records in the analysis.
+## Getting Started
 
- -**Pilot Training Programs:**
-   - Implement comprehensive training programs that address the specific risks associated with identified weather conditions and high-risk aircraft types.
+To run the notebook, you will need:
 
- -**Safety Protocols:**
-    
-   - By developing and enforcing strict safety protocols, especially for operations in regions identified as accident hotspots
-
-   - ## Visualizations
-
-To help communicate the findings and recommendations effectively, the following visual resources are available:
-
-- **Pdf Presentation**: This presentation provides a summary of the analysis, key insights, and recommendations. It can be used for stakeholder briefings or educational purposes.  
-  [Download the presentation](https://github.com/ahonokalia/analysis-for-aircraft/blob/main/Aviation-Safety-Aviation-Accident-Analysis-Identifying-Low-Risk-Aircraft-for-Business-Expansion.pdf)
-  
-
-**Tableau Dashboard**: An interactive Tableau dashboard allows users to explore the data and insights in more depth. The dashboard provides a visual representation of incident patterns, risk models, engine performance, and more. \
- [View the Tableau Dashboard](https://public.tableau.com/app/profile/precious.kalia/viz/projectphase1/VISUALPRESENTATION?publish=yes)
- ## Future Directions
-
-##Further research could explore the following areas:
-- **Enlarging the dataset** to include more recent incidents and a wider range of geographic locations.
-- **Conducting a deeper analysis of pilot experience** as a factor in incident outcomes.
-- **Creating predictive models** to anticipate high-risk conditions based on weather, aircraft type, and other factors.
-
-## Contact
-
-For inquiries, feedback, or collaboration opportunities, feel free to reach out:
-
-Precious Ahono Kalia.:  
-[precious.kalia@student.moringaschool.com](mailto:precious.kalia@student.moringaschool.com)
+- Python 3.x
+- Jupyter Notebook
+- Necessary libraries (pandas, numpy, matplotlib, seaborn, sklearn)

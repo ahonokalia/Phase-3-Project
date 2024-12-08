@@ -22,10 +22,9 @@ This repository contains a Jupyter notebook focused on analyzing police stop dat
 4. [Challenges Addressed](#challenges-addressed)
 5. [Proposed Solution](#proposed-solution)
 6. [Dataset](#dataset)
-7. [Getting Started](#getting-started)
-8. [Contributing](#contributing)
-9. [License](#license)
-10. [Acknowledgments](#acknowledgments)
+7. [Non-technical Presentation](#non-technical Presentation)
+
+
 ## Key Questions
 
 - Does race play a role in the likelihood of an arrest being made?
@@ -51,9 +50,9 @@ The notebook implements a data-driven approach involving:
 
 ## Dataset
 
-The dataset used for this analysis is derived from the Terry v. Ohio case and includes various features related to police stops and arrest outcomes. You can access the dataset [here](link_to_your_dataset).
+The dataset used for this analysis is derived from the Terry v. Ohio case and includes various features related to police stops and arrest outcomes. You can access the dataset [here](https://data.seattle.gov/Public-Safety/Terry-Stops/28ny-9ts8/about_data).
 
-## Getting Started
+## Non-technical Presentation
 
 To run the notebook, you will need:
 

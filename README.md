@@ -1,10 +1,9 @@
 # Phase-3-Project
 # Analyzing Terry Stops and Arrest Decisions
-![Police Interaction]([link_to_your_image](https://www.google.com/imgres?q=police%20interacting%20with%20civilians&imgurl=https%3A%2F%2Fimages.pexels.com%2Fphotos%2F7714863%2Fpexels-photo-7714863.jpeg%3Fauto%3Dcompress%26cs%3Dtinysrgb%26w%3D1260%26h%3D750%26dpr%3D1&imgrefurl=https%3A%2F%2Fwww.pexels.com%2Fphoto%2Fpolice-officers-talking-to-civilians-7714863%2F&docid=I8A6pWkoer4L8M&tbnid=985RVcMuLcVJcM&vet=12ahUKEwj_u8H-6JiKAxU_T0EAHQ1GAAMQM3oECBcQAA..i&w=1000&h=750&hcb=2&ved=2ahUKEwj_u8H-6JiKAxU_T0EAHQ1GAAMQM3oECBcQAA))
 
 ## Overview
 
-This repository contains a Jupyter notebook focused on analyzing police stop data, specifically addressing the classification problem related to Terry Stops and arrest decisions. The project aims to uncover patterns of racial profiling, assess the effectiveness of police interventions, and provide insights for equitable policing practices.
+This repository contains a Jupyter notebook focused on analyzing police stop data, specifically addressing the classification problem related to Terry Stops and arrest decisions. My project aims to uncover patterns of racial profiling, assess the effectiveness of police interventions, and provide insights for equitable policing practices.
 **Author**: Precious Ahono Kalia  
 **Contact**: [precious.kalia@student.moringaschool.com](mailto:precious.kalia@student.moringaschool.com)
 
@@ -50,7 +49,7 @@ The notebook implements a data-driven approach involving:
 
 ## Dataset
 
-The dataset used for this analysis is derived from the Terry v. Ohio case and includes various features related to police stops and arrest outcomes. You can access the dataset [here](https://data.seattle.gov/Public-Safety/Terry-Stops/28ny-9ts8/about_data).
+The dataset used for this analysis is derived from the Terry v. Ohio case and includes various features related to police stops and arrest outcomes. You can access the dataset [here]((https://github.com/ahonokalia/Phase-3-Project/blob/main/Terry_Stops_20241201.csv)).
 
 ## Non-technical Presentation
 

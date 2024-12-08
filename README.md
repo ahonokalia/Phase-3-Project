@@ -1,6 +1,8 @@
 # Phase-3-Project
 # Analyzing Terry Stops and Arrest Decisions
 
+![Police Interaction]((https://github.com/ahonokalia/Phase-3-Project/blob/main/photo%201.jpg))
+
 ## Overview
 
 This repository contains a Jupyter notebook focused on analyzing police stop data, specifically addressing the classification problem related to Terry Stops and arrest decisions. My project aims to uncover patterns of racial profiling, assess the effectiveness of police interventions, and provide insights for equitable policing practices.
@@ -39,22 +41,22 @@ This repository contains a Jupyter notebook focused on analyzing police stop dat
 - **Ethical Concerns**: Ensuring transparency and fairness in model predictions.
 
 ## Proposed Solution
+To run the notebook, you will need:
+
+- Python 3.x
+- Jupyter Notebook
+- Necessary libraries (pandas, numpy, matplotlib, seaborn, sklearn)
 
 The notebook implements a data-driven approach involving:
 
 1. **Exploratory Data Analysis (EDA)**: Assessing demographic arrest rates and identifying patterns in stop outcomes.
-2. **Bias and Fairness Analysis**: Measuring disparate impacts and testing for systemic biases.
-3. **Machine Learning Model**: Developing a classification model to predict arrest likelihood while incorporating ethical safeguards.
-4. **Optimization and Validation**: Recommending resource prioritization and evaluating model performance with fairness metrics.
+2. **Machine Learning Model**: Developing a classification model to predict arrest likelihood while incorporating ethical safeguards.
+3. **Optimization and Validation**: Recommending resource prioritization and evaluating model performance with fairness metrics.
 
 ## Dataset
 
 The dataset used for this analysis is derived from the Terry v. Ohio case and includes various features related to police stops and arrest outcomes. You can access the dataset [here]((https://github.com/ahonokalia/Phase-3-Project/blob/main/Terry_Stops_20241201.csv)).
 
 ## Non-technical Presentation
+Additionally I've prepared a non-technical presentation which can be found [here](https://github.com/ahonokalia/Phase-3-Project/blob/main/Non-Technical%20Presentation_%20Analyzing%20Terry%20Stops%20and%20Arrest%20Decisions.pdf)
 
-To run the notebook, you will need:
-
-- Python 3.x
-- Jupyter Notebook
-- Necessary libraries (pandas, numpy, matplotlib, seaborn, sklearn)

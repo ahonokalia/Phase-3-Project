@@ -1,7 +1,7 @@
 # Phase-3-Project
 # Analyzing Terry Stops and Arrest Decisions
 
-![Police Interaction]((https://github.com/ahonokalia/Phase-3-Project/blob/main/photo%201.jpg))
+
 
 ## Overview
 
@@ -9,12 +9,12 @@ This repository contains a Jupyter notebook focused on analyzing police stop dat
 **Author**: Precious Ahono Kalia  
 **Contact**: [precious.kalia@student.moringaschool.com](mailto:precious.kalia@student.moringaschool.com)
 
-
 ## Project Goals
 - **Identify Patterns**: Analyze the relationship between race (of both officers and subjects) and arrest outcomes during Terry Stops.
 - **Measure Disparities**: Investigate disparities in stop rates among different racial and ethnic groups.
 - **Evaluate Effectiveness**: Explore common reasons for stops and their correlation with outcomes, such as arrests or citations.
 - **Enhance Community Trust**: Provide recommendations for resource allocation that minimize bias and maximize community safety.
+
 ## Table of Contents
 
 1. [Overview](#overview)
@@ -23,8 +23,8 @@ This repository contains a Jupyter notebook focused on analyzing police stop dat
 4. [Challenges Addressed](#challenges-addressed)
 5. [Proposed Solution](#proposed-solution)
 6. [Dataset](#dataset)
-7. [Non-technical Presentation](#non-technical Presentation)
-
+7. [Non-technical Presentation](#non-technical-presentation)
+8. [Full Results & Dataset](#full-results--dataset)
 
 ## Key Questions
 
@@ -50,13 +50,15 @@ To run the notebook, you will need:
 The notebook implements a data-driven approach involving:
 
 1. **Exploratory Data Analysis (EDA)**: Assessing demographic arrest rates and identifying patterns in stop outcomes.
-2. **Machine Learning Model**: Developing a classification model to predict arrest likelihood while incorporating ethical safeguards.
+2. **Machine Learning Model**: Developing a classification model with a baseline of logistic regression and decision trees to predict arrest likelihood while incorporating ethical safeguards.
 3. **Optimization and Validation**: Recommending resource prioritization and evaluating model performance with fairness metrics.
 
 ## Dataset
 
-The dataset used for this analysis is derived from the Terry v. Ohio case and includes various features related to police stops and arrest outcomes. You can access the dataset [here]((https://github.com/ahonokalia/Phase-3-Project/blob/main/Terry_Stops_20241201.csv)).
+The dataset used for this analysis is derived from the Terry v. Ohio case and includes various features related to police stops and arrest outcomes. You can access the dataset [here].
 
 ## Non-technical Presentation
-Additionally I've prepared a non-technical presentation which can be found [here](https://github.com/ahonokalia/Phase-3-Project/blob/main/Non-Technical%20Presentation_%20Analyzing%20Terry%20Stops%20and%20Arrest%20Decisions.pdf)
+Additionally, I've prepared a non-technical presentation which can be found [here].
 
+## Full Results & Dataset
+For a detailed view of my analysis and findings, you can access the Jupyter notebook showing all work [here](https://github.com/ahonokalia/Phase-3-Project/blob/main/your_notebook_file.ipynb).

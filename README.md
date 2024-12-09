@@ -55,10 +55,10 @@ The notebook implements a data-driven approach involving:
 
 ## Dataset
 
-The dataset used for this analysis is derived from the Terry v. Ohio case and includes various features related to police stops and arrest outcomes. You can access the dataset [here].
+The dataset used for this analysis is derived from the Terry v. Ohio case and includes various features related to police stops and arrest outcomes. You can access the dataset [Access the full  dataset here](https://github.com/ahonokalia/Phase-3-Project/blob/main/Terry_Stops_20241201.csv).
 
 ## Non-technical Presentation
-Additionally, I've prepared a non-technical presentation which can be found [here].
+Additionally, I've prepared a non-technical presentation which can be found [Access non-technical presentation here]((https://github.com/ahonokalia/Phase-3-Project/blob/main/Non-Technical%20Presentation_%20Analyzing%20Terry%20Stops%20and%20Arrest%20Decisions.pdf)).
 
 ## Full Results & Dataset
-For a detailed view of my analysis and findings, you can access the Jupyter notebook showing all work [here]((https://github.com/ahonokalia/Phase-3-Project/blob/main/.ipynb)).
+For a detailed view of my analysis and findings, you can access the Jupyter notebook showing all work [Access the full results dataset here]((https://github.com/ahonokalia/Phase-3-Project/blob/main/.ipynb))

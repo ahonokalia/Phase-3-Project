@@ -61,4 +61,4 @@ The dataset used for this analysis is derived from the Terry v. Ohio case and in
 Additionally, I've prepared a non-technical presentation which can be found [here].
 
 ## Full Results & Dataset
-For a detailed view of my analysis and findings, you can access the Jupyter notebook showing all work [here](https://github.com/ahonokalia/Phase-3-Project/blob/main/your_notebook_file.ipynb).
+For a detailed view of my analysis and findings, you can access the Jupyter notebook showing all work [here]((https://github.com/ahonokalia/Phase-3-Project/blob/main/.ipynb)).
